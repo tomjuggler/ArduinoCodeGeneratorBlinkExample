@@ -7,8 +7,8 @@ output = createWriter(dataPath("") +"/output/" + "output.ino");
 // + "#include \"FastLED.h\" \n"
 //I have included a variable below to change the delay according to which button was pressed
 
-output.println("// Most of this code is the hard work of Tom Hastings www.bigtop.co.za // \n"
-+ "// other credits here! Many thanks to .....// \n"
+output.println("// Most of this code is the hard work of the Processing and Arduino teams // \n"
++ " \n"
 + "  \n"
 + "/*  \n"
 + "  Blink  \n"
